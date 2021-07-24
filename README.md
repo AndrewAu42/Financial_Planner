@@ -11,16 +11,16 @@ Please double check before running the application, you need to be sure to insta
 
 Additional Packages: 
 
-'''python
+```python
 alpaca_trade_api
 python-dotenv
-'''
+```
 
 To install these locally use the following lines: 
-'''python
+```python
 pip install alpaca_trade_api
 pip install python-dotenv
-'''
+```
 
 Please note you need to be sure you create/have an Alpaca API key saved locally in your machine in a .env file, for this file to properly run and pull current market data. Further information to sign up and create and have an API Key is found here: https://alpaca.markets/
 
